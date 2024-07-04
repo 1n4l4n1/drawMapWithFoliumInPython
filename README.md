@@ -6,4 +6,4 @@ you should read them and fill the blank parts with csv file link and row names. 
   "logoNo": for select logos from file with numbers
   "Name": The locations name, it will appear when you click on the marker with a popup
   "Location": '1.23456, 1.23456' the code has clear coordinates function
-  "Color": specified marker colors
+  "Color": costimize marker colors
